@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+#search-food-form-container{
+  margin-top: 20em;
+  min-width: 50VW;
+}
+
+#navbar-container{
+  min-width: 100vw;
+}
+
+#search-form{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  justify-items: flex-start;
+}
+
+.calculate-button {
+  width: 50%;
+  align-self: center;
+} 
+
+
